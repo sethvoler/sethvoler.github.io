@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{533:function(e,n,t){"use strict";t.r(n);var r={data:function(){return{blockStyle:{background:"#eee",color:"red"}}}},o=t(2),u=Object(o.a)(r,(function(){var e=this.$createElement,n=this._self._c||e;return n("marquee",[n("Boxx")],1)}),[],!1,null,null,null);n.default=u.exports}}]);
